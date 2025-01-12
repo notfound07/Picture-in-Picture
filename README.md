@@ -1,4 +1,4 @@
-Here’s a detailed README tailored to **Picture-in-Picture** project:  
+Here’s a README:  
 
 ---
 
